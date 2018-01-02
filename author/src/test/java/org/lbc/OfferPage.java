@@ -1,4 +1,4 @@
-package org.ladbrokes;
+package org.lbc;
 
 import java.util.concurrent.TimeUnit;
 

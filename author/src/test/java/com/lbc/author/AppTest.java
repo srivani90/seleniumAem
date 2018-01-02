@@ -1,4 +1,4 @@
-package com.ladbrokes.author;
+package com.lbc.author;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

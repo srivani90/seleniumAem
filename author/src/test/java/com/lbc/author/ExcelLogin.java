@@ -1,4 +1,4 @@
-package com.ladbrokes.author;
+package com.lbc.author;
 
 import java.io.File;
 import java.io.FileInputStream;
